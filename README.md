@@ -30,7 +30,7 @@ The dataset consists of the following columns:
 
 ## Purpose
 
-The purpose of this dataset is to analyze customer churn patterns and factors influencing churn in the banking industry. Researchers and analysts can use this dataset to:
+The purpose of this projectis to analyze customer churn patterns and factors influencing churn in the banking industry. Researchers and analysts can use this dataset to:
 
 - Perform exploratory data analysis to understand customer demographics and behavior.
 - Build predictive models to identify potential churners.
